@@ -1,5 +1,7 @@
 # G2DFE-Net
 
+This repository contains PyTorch implementation for paper **Graph-in-Graph Discriminative Feature Enhancement Network for Fine-grained Visual Classification**
+
 ## Dataset
 Dataset | Object | Category | Training | Testing
 ---|--- |--- |--- |---
